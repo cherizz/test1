@@ -1,0 +1,1 @@
+document.write("HELLO你好我好餓")
